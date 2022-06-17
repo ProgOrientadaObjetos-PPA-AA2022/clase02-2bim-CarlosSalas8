@@ -15,6 +15,12 @@ public class Estudiante {
         identificacionEstudiante = iden;
         edadEstudiante = ed;
     }
+    public Estudiante(String iden, int ed){
+               
+        
+        identificacionEstudiante = iden;
+        edadEstudiante = ed;
+    }
     
     //  Métodos establecer y calcular para los datos o atributos de la clase
     
